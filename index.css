@@ -1,0 +1,26 @@
+h1{
+  padding-left: 1rem;
+  margin-top: 2rem;
+  background-color: white;
+  height: 3.3rem;
+}
+#actorName{
+  display: inline-block;
+  font-style: italic;
+  margin:0.5rem;
+}
+span{
+  margin-left: 1rem;
+  font-size: 1.3rem;
+  color: white;
+  background-color: black;
+}
+body{
+  background-image: linear-gradient(to left, #ffffff, #333333);
+}
+#carre{
+  box-shadow: #000 20px 20px 10px;
+  background-color: red;
+  width: 10rem;
+  height: 10rem;
+}
